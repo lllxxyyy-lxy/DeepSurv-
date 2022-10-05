@@ -1,0 +1,8 @@
+2022-09-27 11:30:06,159 - utils - INFO - Running METABRIC(metabric.ini)...
+2022-09-27 11:30:10,238 - utils - INFO - The best valid c-index: 0.6412595948937578
+2022-09-27 11:30:10,238 - utils - INFO - 
+2022-09-27 11:30:10,238 - utils - INFO - +----------+
+| METABRIC |
++----------+
+| 0.641260 |
++----------+

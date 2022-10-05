@@ -1,0 +1,29 @@
+2022-09-08 15:56:03,468 - utils - INFO - Running Simulated Linear(linear.ini)...
+2022-09-08 15:56:23,895 - utils - INFO - The best valid c-index: 0.7789086057371581
+2022-09-08 15:56:23,896 - utils - INFO - 
+2022-09-08 15:56:23,896 - utils - INFO - Running Simulated Nonlinear(gaussian.ini)...
+2022-09-08 15:56:31,191 - utils - INFO - The best valid c-index: 0.5119399599733155
+2022-09-08 15:56:31,191 - utils - INFO - 
+2022-09-08 15:56:31,191 - utils - INFO - Running WHAS(whas.ini)...
+2022-09-08 15:56:35,705 - utils - INFO - The best valid c-index: 0.8422595975597424
+2022-09-08 15:56:35,705 - utils - INFO - 
+2022-09-08 15:56:35,705 - utils - INFO - Running SUPPORT(support.ini)...
+2022-09-08 15:58:01,365 - utils - INFO - The best valid c-index: 0.6189789081052346
+2022-09-08 15:58:01,366 - utils - INFO - 
+2022-09-08 15:58:01,366 - utils - INFO - Running METABRIC(metabric.ini)...
+2022-09-08 15:58:11,732 - utils - INFO - The best valid c-index: 0.6419216684252995
+2022-09-08 15:58:11,732 - utils - INFO - 
+2022-09-08 15:58:11,732 - utils - INFO - Running Simulated Treatment(treatment.ini)...
+2022-09-08 15:58:25,326 - utils - INFO - The best valid c-index: 0.5594556370913942
+2022-09-08 15:58:25,326 - utils - INFO - 
+2022-09-08 15:58:25,326 - utils - INFO - Running Rotterdam & GBSG(gbsg.ini)...
+2022-09-08 15:58:34,349 - utils - INFO - The best valid c-index: 0.6739734880365517
+2022-09-08 15:58:34,349 - utils - INFO - 
+2022-09-08 15:58:34,349 - utils - INFO - Running AML(aml.ini)...
+2022-09-08 15:58:34,793 - utils - INFO - The best valid c-index: 0.6220600162206001
+2022-09-08 15:58:34,793 - utils - INFO - 
+2022-09-08 15:58:34,793 - utils - INFO - +------------------+---------------------+----------+----------+----------+---------------------+------------------+----------+
+| Simulated Linear | Simulated Nonlinear |   WHAS   | SUPPORT  | METABRIC | Simulated Treatment | Rotterdam & GBSG |   AML    |
++------------------+---------------------+----------+----------+----------+---------------------+------------------+----------+
+|     0.778909     |       0.511940      | 0.842260 | 0.618979 | 0.641922 |       0.559456      |     0.673973     | 0.622060 |
++------------------+---------------------+----------+----------+----------+---------------------+------------------+----------+
